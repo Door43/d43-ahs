@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ahs:home|Door43 (ahs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ahs|d43-ahs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ahs/archive/master.zip|d43-ahs.zip]]
+
+**Recent Changes**
+{{changes>ns = ahs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ahs|Ethnologue data]]
+
